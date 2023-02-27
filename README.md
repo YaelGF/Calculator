@@ -29,22 +29,22 @@ git clone https://github.com/YaelGF/Calculator.git
 # Run the project
 
 ## main
-![main](/assets/main.png)
+<img src="/assets/main.png" width="350" height="500">
 
 ## Calculator
-![calculator](/assets/calculator.png)
+<img src="/assets/Calculador.png" width="350" height="500">
 
 ## Sum
-![sum](/assets/suma.png)
+<img src="/assets/suma.png" width="350" height="500">
 
 ## Rest
-![rest](/assets/resta.png)
+<img src="/assets/resta.png" width="350" height="500">
 
 # Multiplication
-![multiplication](/assets/multiplicacion.png)
+<img src="/assets/multiplicacion.png" width="350" height="500">
 
 # Division
-![division](/assets/division.png)
+<img src="/assets/division.png" width="350" height="500">
 
 # License
 [Apache License 2.0](https://github.com/YaelGF/Calculator/blob/main/LICENSE)
